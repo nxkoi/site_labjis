@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Host: labji.inf.ufg.br
+Sitemap: https://labji.inf.ufg.br/sitemap.xml
